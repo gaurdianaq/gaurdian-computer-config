@@ -1,0 +1,19 @@
+theme = 'github_dark'
+
+[keys.normal]
+A-d = "delete_selection"
+d = "delete_selection_noyank"
+A-c = "change_selection"
+c = "change_selection_noyank"
+
+[editor.file-picker]
+hidden = false
+git-ignore = false
+
+[editor.soft-wrap]
+enable = true
+
+# [editor.inline-diagnostics]
+# cursor-line = "hint"
+# other-lines = "warning"
+
